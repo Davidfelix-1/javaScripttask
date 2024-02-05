@@ -22,3 +22,7 @@ var evenNumbers = numbers.filter(function(number){
     return number % 2 === 0;
 });
 console.log (evenNumbers);
+
+
+//seen. But, where is function(number) coming from?
+//In the person object, the values weren't accessed as I intended it to be
